@@ -2,8 +2,9 @@
 
 My attempt at a deep learning model to generate music.
 
-## Tutorials/Data used
+## Tutorials/Resources used
 
-[How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5?gi=6cedbc43ca39)
-
-[Classical-Piano-Composer](https://github.com/Skuldur/Classical-Piano-Composer.git)
+# [Tutorial](https://towardsdatascience.com/music-generation-through-deep-neural-networks-21d7bd81496e)
+# [Original Code](https://github.com/RamyaVidiyala/Generate-Music-Using-Neural-Networks/blob/master/Music_generation.ipynb)
+# [Dataset](https://github.com/jukedeck/nottingham-dataset)
+# [ABC to MIDI Converter](http://www.mandolintab.net/abcconverter.php)
